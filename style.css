@@ -37,6 +37,10 @@ body {
 .container {
   width: 355px;
   margin: auto;
+
+  width: 90%; /* Adjust the width to ensure it doesn't take the full screen width */
+  max-width: 300px; /* You can set a max-width to keep it consistent with the design */
+  padding: 20px;
 }
 
 .qr-component {
@@ -45,7 +49,7 @@ body {
   padding-bottom: 40px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
-
+/* 
 @media (max-width: 600px) {
   .container {
     width: 80%;
@@ -59,4 +63,4 @@ body {
     width: 290px;
     height: 290px;
   }
-}
+} */
