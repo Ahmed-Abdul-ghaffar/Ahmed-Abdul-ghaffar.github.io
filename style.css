@@ -54,4 +54,9 @@ body {
   body {
     background-color: black;
   }
+
+  .qr-component-img {
+    width: 290px;
+    height: 290px;
+  }
 }
