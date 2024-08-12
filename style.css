@@ -49,18 +49,18 @@ body {
   padding-bottom: 40px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
-/* 
+
 @media (max-width: 600px) {
-  .container {
+  /* .container {
     width: 80%;
     padding: 20px;
   }
   body {
     background-color: black;
-  }
+  } */
 
   .qr-component-img {
     width: 290px;
     height: 290px;
   }
-} */
+}
