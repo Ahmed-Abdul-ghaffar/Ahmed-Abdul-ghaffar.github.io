@@ -51,4 +51,7 @@ body {
     width: 80%;
     padding: 20px;
   }
+  body {
+    background-color: black;
+  }
 }
