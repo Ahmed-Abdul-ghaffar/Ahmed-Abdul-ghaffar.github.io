@@ -17,8 +17,8 @@ body {
 }
 
 .qr-component-img {
-  width: 305px;
-  height: 305px;
+  width: 285px;
+  height: 285px;
   margin: 15px 15px 20px 15px;
   border-radius: 10px;
 }
@@ -38,7 +38,7 @@ body {
 }
 
 .container {
-  width: 335px;
+  width: 315px;
   margin: auto;
   /* padding-right: 15px;
   padding-left: 15px; */
