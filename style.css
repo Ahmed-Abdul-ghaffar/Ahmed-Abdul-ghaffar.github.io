@@ -19,7 +19,7 @@ body {
 .qr-component-img {
   width: 315px;
   height: 315px;
-  margin: 15px 15px 20px 15px;
+  margin: 10px 10px 20px 10px;
   border-radius: 10px;
 }
 
@@ -38,7 +38,7 @@ body {
 }
 
 .container {
-  width: 345px;
+  width: 335px;
   margin: auto;
   /* padding-right: 15px;
   padding-left: 15px; */
